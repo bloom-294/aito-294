@@ -1,5 +1,5 @@
 <h1>bloom</h1>
-<h2>🍀skills</h2>
+<h2>🍪skills</h2>
 <p style="display:inline margin-top:0px;">
   <img src="https://img.shields.io/badge/-Sass-fffafa.svg?logo=sass&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TailwindCSS-fffafa.svg?logo=tailwindcss&style=for-the-badge" />
