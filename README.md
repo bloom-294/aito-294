@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bloom</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h2 align="left">Skills</h2>
 
