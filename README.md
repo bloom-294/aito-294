@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-
-<h2 align="left">Skills</h2>
+<h1 align="left">Skills</h1>
 
 <p style="display:inline margin-top:0px;">
   <img src="https://img.shields.io/badge/-Sass-fffafa.svg?logo=sass&style=for-the-badge" />
