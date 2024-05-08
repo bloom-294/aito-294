@@ -13,6 +13,9 @@
 
 <img align="right" alt="head_image" width="300" src="https://images.unsplash.com/photo-1595263600568-44a6b8e6a9d4?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
 
+ <!-- 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloom-294&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bloom-294" />
+ -->
+ 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bloom-294&show_icons=true&locale=en&theme=tokyonight" alt="bloom-294" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloom-294&theme=tokyonight" alt="bloom-294" />
