@@ -1,7 +1,6 @@
-![ Skills](https://github.com/user-attachments/assets/8b5e8f8a-d6d8-4a71-b5a4-cc9fcfa12ae9)
----
+<h2><img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" /></h2>
 
-<p style="display:inline margin-top:0px;">
+<p style="display:inline;">
   <img src="https://img.shields.io/badge/-Sass-fffafa.svg?logo=sass&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TailwindCSS-fffafa.svg?logo=tailwindcss&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-next.js-fffafa?style=for-the-badge&logo=next.js&logoColor=black" />
@@ -11,6 +10,3 @@
   <img src="https://img.shields.io/badge/-Node.js-fffafa.svg?logo=node.js&style=for-the-badge" />
   <img src="https://img.shields.io/badge/javascript-fffafa.svg?logo=javascript&style=for-the-badge" />
 </p>
-
-
-
