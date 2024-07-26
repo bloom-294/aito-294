@@ -1,4 +1,5 @@
-<h1 align="left">Skills</h1>
+![ Skills](https://github.com/user-attachments/assets/8b5e8f8a-d6d8-4a71-b5a4-cc9fcfa12ae9)
+---
 
 <p style="display:inline margin-top:0px;">
   <img src="https://img.shields.io/badge/-Sass-fffafa.svg?logo=sass&style=for-the-badge" />
@@ -11,4 +12,5 @@
   <img src="https://img.shields.io/badge/javascript-fffafa.svg?logo=javascript&style=for-the-badge" />
 </p>
 
-![tulip_2](https://github.com/user-attachments/assets/e5e0015a-41ea-4008-b84f-1edadaaaad34)
+
+
