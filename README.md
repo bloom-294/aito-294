@@ -1,3 +1,5 @@
+![tulip_2](https://github.com/user-attachments/assets/e5e0015a-41ea-4008-b84f-1edadaaaad34)
+
 <h1 align="left">Skills</h1>
 
 <p style="display:inline margin-top:0px;">
@@ -10,3 +12,5 @@
   <img src="https://img.shields.io/badge/-Node.js-fffafa.svg?logo=node.js&style=for-the-badge" />
   <img src="https://img.shields.io/badge/javascript-fffafa.svg?logo=javascript&style=for-the-badge" />
 </p>
+
+
