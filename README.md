@@ -1,4 +1,8 @@
-<h2><img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>
+  <img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" /> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+  <img src="https://github.com/user-attachments/assets/ec23404e-2cf6-426a-ba67-6451d982dcbe"  width="100px" />
+</h2>
 
 -  🌱　languages
 
@@ -9,6 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-fffafa.svg?logo=MySQL&style=for-the-badge" />
   <img src="https://img.shields.io/badge/php-fffafa.svg?logo=php&style=for-the-badge" />
 </p>
+
 
 -  🌷　framework, library
 
@@ -32,7 +37,6 @@
   <img src="https://img.shields.io/badge/lightHouse-fffafa.svg?logo=lightHouse&style=for-the-badge" />
   <img src="https://img.shields.io/badge/googleSearchConsole-fffafa.svg?logo=googleSearchConsole&style=for-the-badge" />
 </p>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
