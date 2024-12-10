@@ -42,7 +42,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Animation - 1733872809787](https://github.com/user-attachments/assets/f814e20b-cbab-4d35-bce5-70ecf790f218)
   <img src="https://github.com/user-attachments/assets/e97acda7-028a-46ef-a5a1-3241c4975924"  width="100px" />
+
 
 <!--
 <p style="display:inline;">
