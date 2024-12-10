@@ -6,8 +6,6 @@
   <img src="https://github.com/user-attachments/assets/ec23404e-2cf6-426a-ba67-6451d982dcbe"  width="100px" />
 </h2>
 
-  <img src="https://github.com/user-attachments/assets/e97acda7-028a-46ef-a5a1-3241c4975924"  width="100px" />
-
 -  🌱　languages
 
   <p style="display:inline;">
@@ -44,7 +42,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github.com/user-attachments/assets/e97acda7-028a-46ef-a5a1-3241c4975924"  width="100px" />
 
 <!--
 <p style="display:inline;">
