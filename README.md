@@ -1,5 +1,6 @@
 <h2>
-  <img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" /> 
+<!--   <img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" />  -->
+  Skills
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
   <img src="https://github.com/user-attachments/assets/ec23404e-2cf6-426a-ba67-6451d982dcbe"  width="100px" />
 </h2>
