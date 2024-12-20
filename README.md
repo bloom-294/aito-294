@@ -41,7 +41,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Animation - 1733872809787](https://github.com/user-attachments/assets/f814e20b-cbab-4d35-bce5-70ecf790f218)
@@ -49,6 +49,7 @@
 
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact" />
 <p style="display:inline;">
   <img src="https://img.shields.io/badge/-React-fffafa?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/vue.js-fffafa.svg?logo=vue.js&style=for-the-badge" />
