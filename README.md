@@ -1,12 +1,12 @@
-<h2>
-<!--   <img src="https://github.com/user-attachments/assets/c9854c81-a0df-436e-99e4-9acaa3616f2a" height="35px" alt="Skills" />  -->
+<h1>
   Skills
-  <img src="https://github.com/user-attachments/assets/af75990f-efab-4bb2-b4a1-0b5920aae721" width="30px" />
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> -->
-  <img src="https://github.com/user-attachments/assets/ec23404e-2cf6-426a-ba67-6451d982dcbe"  width="100px" />
-</h2>
+  <img src="https://github.com/user-attachments/assets/31ebb69c-d88a-42ba-9d49-b2d5896cc4e1" width="40px" />
+</h1>
 
--  🌱　languages
+<h3>
+  <img src="https://github.com/user-attachments/assets/39ec9dae-04b4-4e91-9f92-f2ca93e5cb00" width="30px" />
+  languages
+</h3>
 
   <p style="display:inline;">
   <img src="https://img.shields.io/badge/javascript-fffafa.svg?logo=javascript&style=for-the-badge" />
@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/php-fffafa.svg?logo=php&style=for-the-badge" />
 </p>
 
-
--  🌷　framework, library
+<h3>
+  <img src="https://github.com/user-attachments/assets/fee46be4-2946-48c7-b3cc-f885924282ba" width="30px" />
+  framework, library
+</h3>
 
 <p style="display:inline;">
   <img src="https://img.shields.io/badge/-React-fffafa?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -28,7 +30,10 @@
   
 </p>
 
--  🍪　others
+<h3>
+  <img src="https://github.com/user-attachments/assets/f99ec704-5558-4be6-ad84-27ee43ae5597" width="30px" />
+  others
+</h3>
 
 <p style="display:inline;">
   <img src="https://img.shields.io/badge/storybook-fffafa.svg?logo=storybook&style=for-the-badge" />
@@ -40,16 +45,16 @@
   <img src="https://img.shields.io/badge/googleSearchConsole-fffafa.svg?logo=googleSearchConsole&style=for-the-badge" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Animation - 1733872809787](https://github.com/user-attachments/assets/f814e20b-cbab-4d35-bce5-70ecf790f218)
-  <img src="https://github.com/user-attachments/assets/e97acda7-028a-46ef-a5a1-3241c4975924"  width="100px" />
+<img src="https://github.com/user-attachments/assets/372d1138-d77b-4a19-b31e-8d047dc06587" width="100px" />
+<img src="https://github.com/user-attachments/assets/5a2d119e-1abb-4bf1-aa8e-5d54c4299812" width="100px" />
+<img src="https://github.com/user-attachments/assets/8c35fc48-105d-42c5-9b93-90df1615f37f" width="100px" />
 
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloom-294&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <p style="display:inline;">
   <img src="https://img.shields.io/badge/-React-fffafa?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/vue.js-fffafa.svg?logo=vue.js&style=for-the-badge" />
@@ -68,5 +73,6 @@
   <img src="https://img.shields.io/badge/laravel-fffafa.svg?logo=laravel&style=for-the-badge" />
 </p>
 -->
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloom-294)](https://github.com/anuraghazra/github-readme-stats) -->
